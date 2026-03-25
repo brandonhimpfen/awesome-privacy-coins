@@ -69,6 +69,7 @@
 - **[Kraken](https://www.kraken.com/)** - A trusted exchange supporting privacy coins like Monero and Zcash.
 - **[KuCoin](https://www.kucoin.com/)** - An exchange known for listing a variety of privacy coins.
 - **[TradeOgre](https://tradeogre.com/)** - A niche exchange specializing in privacy-focused and lesser-known cryptocurrencies.
+- **[BitcoinVN](https://bitcoinvn.io/)** - A non-custodial instant exchange supporting Monero (XMR) with fiat on/off ramp, operating since 2014.
 - **[AtomicDEX](https://atomicdex.io/)** - A decentralized exchange supporting privacy coins like Monero and Zcash.
 
 ## Educational Resources
