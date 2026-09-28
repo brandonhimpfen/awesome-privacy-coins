@@ -64,6 +64,7 @@
 - **[Zcash Mining Guide](https://www.zcashcommunity.com/mining/)** - A comprehensive guide to mining Zcash, a GPU-mined privacy coin.
 - **[Firo Mining](https://firo.org/guide/mining.html)** - Information on mining Firo, which uses the MTP mining algorithm.
 - **[Verge Mining Pools](https://vergecurrency.com/mining/)** - A list of popular mining pools for Verge.
+- **[Zecnero Mining](https://zecnero.org/mine)** - Guide to mining Zecnero, a Zcash fork that keeps Sapling and Orchard shielded transactions and uses the CPU-friendly RandomX algorithm.
 
 ## Exchanges Supporting Privacy Coins
 
